@@ -1,0 +1,21 @@
+{
+  "name": "excel-to-json",
+  "version": "1.0.0",
+  "description": "converting the excel data in to json data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prathap1041220272"
+  },
+  "author": "siva",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "multer": "^1.3.0",
+    "xls-to-json-lc": "^0.3.4",
+    "xlsx-to-json-lc": "^0.5.0"
+  }
+}
